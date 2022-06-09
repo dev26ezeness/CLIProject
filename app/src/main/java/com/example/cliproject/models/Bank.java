@@ -3,6 +3,7 @@ package com.example.cliproject.models;
 import java.util.Random;
 
 public class Bank {
+    //Bank Approvel
     private Customer customer = Customer.getInstance();
     static private ATM atm = ATM.getInstance();
 
