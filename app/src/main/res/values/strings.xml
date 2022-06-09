@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">OCBC Bank</string>
+    <string name="login">Login</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="well_come">Welcome</string>
+    <string name="insert_card">Insert Card</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_card">Select Simulation Card</string>
+
+
+    <string name="select_account">Select Account</string>
+    <string name="input_pin">Input Pin</string>
+    <string name="enter">Enter</string>
+    <string name="cancel">Cancel</string>
+    <string name="Pay">Pay</string>
+
+
+    <string name="check_balance">Check Balance</string>
+    <string name="remove_card">Remove Card</string>
+
+    <string name="top_up">Top Up</string>
+
+    <string name="your_current_balance">Your Current Balance</string>
+    <string name="select_amount">Select the amount you want to Pay.</string>
+
+    <string name="select_acount">Select the account you want to Pay.</string>
+
+
+    <string name="select_acount_top">Select the amount you want to TopUp.</string>
+    <string name="N500">500</string>
+    <string name="N1000">1,000</string>
+    <string name="N5000">5,000</string>
+    <string name="N10000">10,000</string>
+    <string name="N20000">20,000</string>
+    <string name="incorrect_pin">Incorrect Pin.</string>
+    <string name="transaction_receipt">Transaction Receipt.</string>
+
+
+
+    <string name="sender_information">Payed By.</string>
+
+
+    <string name="receaver_information">Payed To.</string>
+
+
+
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="location">Location:</string>
+    <string name="transaction_type">Transaction Type:</string>
+    <string name="account">Account:</string>
+
+
+    <string name="account_holder">Account Holder:</string>
+    <string name="amount">Amount Transferred:</string>
+
+    <string name="amount_added">Amount Added:</string>
+
+    <string name="available_balance">Available Balance:</string>
+    <string name="back_home">Home</string>
+    <string name="transaction_progress">Transaction in Progress...</string>
+    <string name="others">Others</string>
+    <string name="others_layout_heading">Enter amount you want to Pay \n (multiples of 500 and 1000 only)</string>
+    <string name="multiples_error">Amount is not a multiple of 500 or 1000.</string>
+
+    <string-array name="cardnumbers">
+        <item>Bob</item>
+        <item>Alice</item>
+    </string-array>
+</resources>
